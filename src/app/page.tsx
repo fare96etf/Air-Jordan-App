@@ -7,6 +7,8 @@ export default function Home() {
       The first Air Jordan shoe was produced for basketball player Michael Jordan during his time with the Chicago Bulls in late 1984 and released to the public on April 1, 1985.
       The shoes were designed for Nike by Peter Moore, Tinker Hatfield, and Bruce Kilgore.
       The Jordan Logo, known as the "Jumpman", originated from a photograph by Jacobus Rentmeester, taken before Jordan played for Team USA in the 1984 Summer Olympics.
+      <br/><br/>
+      Source: Wikipedia
       </div>
     </div>
   )

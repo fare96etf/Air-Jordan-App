@@ -12,7 +12,7 @@ export default function SneakerList() {
                             <Link href={`/sneakers/${item.id}`}>
                                 <img className="h-40 w-full object-cover mb-4 rounded-lg" src={item.imageUrl} alt={item.title} />
                                 <h2 className="text-xl font-semibold mb-2">{item.title}</h2>
-                                <p className="text-gray-500">{item.description}</p>
+                                <p className="text-gray-500">{item.shortDescription}</p>
                             </Link>
                         </div>
                     ))}
